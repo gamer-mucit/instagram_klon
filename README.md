@@ -1,1 +1,2 @@
-# instagram_klon
+# PATİKA BOOTSTRAP ÖDEV-2
+İNSTAGRAM KLONU YAPILDI
